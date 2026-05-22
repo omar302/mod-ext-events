@@ -1,11 +1,11 @@
 # mod-ext-events
 
 ## packages
-Spring Web
-Spring Modulith
-Spring Data JDBC
-PostgreSQL Driver
-Docker Compose Support
+Spring Web,
+Spring Modulith,
+Spring Data JDBC,
+PostgreSQL Driver,
+Docker Compose Support,
 Spring for Apache Kafka
 
 ## test
